@@ -424,6 +424,9 @@ public class ConfigConstants {
     /** URL to the claim certificate report, hosted on the reporting server */
     public static final String CLAIM_CERTIFICATE_URL = "claim_cetificate_report_url";
     
+    /** URL to the claim certificate report, hosted on the reporting server */
+    public static final String FORM23_URL = "form23_report_url";
+    
     /** Indicates whether reports are enabled or disabled. 1 - enabled, 0 - disabled */
     public static final String REPORTS_ENABLED = "enable-reports";
     
