@@ -22,4 +22,7 @@ public class ClaimStatusConstants {
     
     /** Issued status of claim. */
     public static final String ISSUED = "issued";
+    
+    /** Historic status of claim. */
+    public static final String HISTORIC = "historic";
 }
